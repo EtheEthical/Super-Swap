@@ -1,4 +1,4 @@
-#Super Swap!
+# Super Swap!
 
 # The Concept
 This game is supposed to have obstacles and you have to swap between powers to use it, hence the name "Super Swap", but unfortunatley, Trinket, which is what I used to run the code in a website, decided to stop rendering images, so I used shapes and colors instead, if you want some images, you can download and run the code yourself.
